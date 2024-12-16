@@ -12,7 +12,7 @@ https://drive.google.com/drive/u/3/folders/1ej0PShHg-2hv2yE3KF-4z29U0xqLpAV1?ths
 # 5.工夫した点・こだわった点
 ・ぼやきの入力と保存機能
 
-・OpenAI APIを使用したソクラテスからの自動応答
+・OpenAI APIを使用した自動応答
 
 ・Firebase Firestoreを活用したデータ永続化
 
@@ -26,4 +26,4 @@ https://drive.google.com/drive/u/3/folders/1ej0PShHg-2hv2yE3KF-4z29U0xqLpAV1?ths
 ・UIデザイン
 
 # 7.質問・疑問・感想、シェアしたいこと等なんでも
-・APIの実装難しかったです。理解は後から追いつくと信じて・・
+・難しかったですがなんとか形にしました（後で更新します）
